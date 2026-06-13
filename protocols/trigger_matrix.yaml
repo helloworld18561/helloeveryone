@@ -1,0 +1,6 @@
+# Trigger Matrix
+# This file will map event keywords and sources to P0/P1/P3 categories.
+p0_keywords: []
+p1_keywords: []
+p3_senders: []
+rules: []
